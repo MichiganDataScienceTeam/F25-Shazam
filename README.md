@@ -4,7 +4,7 @@
 
 <img src="asset/shazam.png" height=60/>
 
-The goal of this program is to create a scalable Shazam clone that can identify songs in its library from microphone audio input.
+The goal of this project is to create a scalable Shazam clone that can identify songs in its library from microphone audio input.
 
 This project will combine elements of Machine Learning, Signal Analysis, App Development (React Native + Expo), and Backend Development (MySQL + Flask).
 
