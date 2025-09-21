@@ -23,6 +23,8 @@ Subject to changes.
 | Nov 9 | Putting it all together 🔧|
 | Nov 16 | Prepare for final presentations 🎉 |
 
-## Presentation Slides
+## Week 1
 
-[Google Drive](https://docs.google.com/presentation/d/1zfACjefKNI2SxUwyjICdXe_Cc1dKNuPlsfJnkOWKs7I/edit?usp=sharing)
+- [Project Intro](https://docs.google.com/presentation/d/1zfACjefKNI2SxUwyjICdXe_Cc1dKNuPlsfJnkOWKs7I/edit?usp=sharing)
+- [Week 1 Slides](https://docs.google.com/presentation/d/1tnqeYWHYlpvawnyNVfE3f95q3EHNDDlER3AwjsX0hdI/edit?usp=sharing)
+- [Week 1 Repo](https://github.com/evanteal15/f25-shazam-clone-w1/tree/main)
