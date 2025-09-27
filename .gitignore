@@ -1,3 +1,11 @@
-tracks/
-musicdl/
-env/
+.DS_Store
+__pycache__
+env
+
+sql/library.db
+sql/library.db-journal
+
+# files associated with music download script
+musicdl
+.musicdl_env
+tracks*
