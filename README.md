@@ -26,5 +26,6 @@ Subject to changes.
 ## Week 1
 
 - [Project Intro](https://docs.google.com/presentation/d/1zfACjefKNI2SxUwyjICdXe_Cc1dKNuPlsfJnkOWKs7I/edit?usp=sharing)
-- [Week 1 Slides](https://docs.google.com/presentation/d/1tnqeYWHYlpvawnyNVfE3f95q3EHNDDlER3AwjsX0hdI/edit?usp=sharing)
+- [Week 1 Slides - Introduction](https://docs.google.com/presentation/d/1tnqeYWHYlpvawnyNVfE3f95q3EHNDDlER3AwjsX0hdI/edit?usp=sharing)
 - [Week 1 Repo](https://github.com/evanteal15/f25-shazam-clone-w1/tree/main)
+- [Week 2 Slides - Fourier Transforms and Spectrograms](https://docs.google.com/presentation/d/1gzf0cIOUEAgEXo3vhXCraE0z4VufTNPwGH04obc6YVs/edit?usp=sharing)
