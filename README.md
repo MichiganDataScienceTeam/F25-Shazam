@@ -23,7 +23,7 @@ Subject to changes.
 | Nov 9 | Putting it all together 🔧|
 | Nov 16 | Prepare for final presentations 🎉 |
 
-## Week 1
+## Slides and Resources
 
 - [Project Intro](https://docs.google.com/presentation/d/1zfACjefKNI2SxUwyjICdXe_Cc1dKNuPlsfJnkOWKs7I/edit?usp=sharing)
 - [Week 1 Slides - Introduction](https://docs.google.com/presentation/d/1tnqeYWHYlpvawnyNVfE3f95q3EHNDDlER3AwjsX0hdI/edit?usp=sharing)
