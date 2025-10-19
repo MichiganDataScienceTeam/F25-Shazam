@@ -31,4 +31,5 @@ Subject to changes.
 - [Week 2 Slides - Fourier Transforms and Spectrograms](https://docs.google.com/presentation/d/1gzf0cIOUEAgEXo3vhXCraE0z4VufTNPwGH04obc6YVs/edit?usp=sharing)
 - [Week 2 Repo](https://github.com/evanteal15/f25-shazam-clone-w2)
 - [Week 3 Slides - Constellation Mapping, Combinatorial Hashing](https://docs.google.com/presentation/d/19fj9Kg58Cis_cMwXxcogEZqUZJeLFWYO1qcOLnea8xo/edit?usp=sharing)
+- [Week 4 Slides - Audio Search using Audio Fingerprints](https://docs.google.com/presentation/d/1qd3xymwVmRnYa82Aees02pbQgLPBiSX_ctFwtJgPWrw/edit?usp=sharing)
 - [Beginnings of your Shazam Algorithm Code](https://github.com/evanteal15/Shazam-App-Template/tree/main)
