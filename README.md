@@ -34,3 +34,5 @@ Subject to changes.
 - [Week 4 Slides - Audio Search using Audio Fingerprints](https://docs.google.com/presentation/d/1qd3xymwVmRnYa82Aees02pbQgLPBiSX_ctFwtJgPWrw/edit?usp=sharing)
 - [Week 5 Slides - SQL, Evaluation (Buffer Week)](https://docs.google.com/presentation/d/1oNsmJnGLWtdSM7dvNCPTMTKxurSGHeCTk-tC6Q5EJIg/edit?usp=sharing)
 - [Shazam-App-Template Repo](https://github.com/evanteal15/Shazam-App-Template/tree/main)
+- [musicdl - create custom music dataset](https://github.com/dennisfarmer/musicdl)
+- [grid search - export results of parameters to a sqlite database](https://github.com/dennisfarmer/F25-Shazam-GridSearch/tree/master)
